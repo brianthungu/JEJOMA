@@ -1,0 +1,37 @@
+.cash {
+  background: url(images/banking.jpg);
+  background-size: cover;
+}
+
+.electronics {
+  background: url(images/electronics.jpg);
+  background-size: cover;
+}
+
+.households {
+  background: url(images/households.jpg);
+  background-size: cover;
+}
+
+.query {
+  background: url(images/query.jpg);
+  background-size: cover;
+  opacity: 0.9;
+}
+
+.welc {
+  background: url(images/welc.jpg);
+  background-size: cover;
+}
+
+.back {
+  background: url(images/bg.jpg);
+  background-size: cover;
+}
+
+.staff {
+  background: url(images/staff.jpg);
+  background-size: cover;
+  max-width: 100%;
+  max-height: 100%;
+}
